@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Josh~Agbo<Gems/>
+- 👋 Hi, I’m Josh~Agbo <Gems>
 - A Software Engineer.
 - 👀 I’m interested in Mobile/Web Development | ML | Cloud
 - 📫 How to reach me @developer.gemjoshua@gmail.com 
