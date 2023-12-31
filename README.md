@@ -5,7 +5,7 @@
 - 👀 I’m passionate about  Mobile/Web Development | ML | Cloud
 - 📫 How to reach me [Email](mailto:developer.gemjoshua@gmail.com)
 - Portfolio Link: [Joshag](https://joshag.vercel.app)
-- Support My Struggle: [Buy Me A Coffee](https://bit.ly/48zy9gJ)
+- Wanna Support My Struggle: [Buy Me A Coffee](https://bit.ly/48zy9gJ)
 - **I'm Open for Project Ideas**
 
 <!---
