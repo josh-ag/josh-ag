@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Josh~Agbo <Joshag>
+- 👋 Hi, I’m Josh~Agbo<Joshag>
 - A Computer Science Student
 - A Software Engineer.
 - 👀 I’m passionate about  Mobile/Web Development | ML | Cloud
