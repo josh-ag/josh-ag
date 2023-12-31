@@ -3,7 +3,7 @@
 - A Software Engineer.
 - 👀 I’m interested in Mobile/Web Development | ML | Cloud
 - 📫 How to reach me @developer.gemjoshua@gmail.com 
-- Portfolio Link: [Gems](https://bit.ly/3et3PKK)
+- Portfolio Link: [joshag](https://bit.ly/3et3PKK)
 - Support My Struggle: [Buy Me A Coffee](https://bit.ly/48zy9gJ)
 
 <!---
