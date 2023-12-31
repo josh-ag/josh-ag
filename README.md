@@ -4,7 +4,7 @@
 - 👀 I’m interested in Mobile/Web Development | ML | Cloud
 - 📫 How to reach me @developer.gemjoshua@gmail.com 
 - Portfolio Link: [Gems](https://bit.ly/3et3PKK)
-- Support My Struggle: [Buy Me A Coffee](bit.ly/48zy9gJ)
+- Support My Struggle: [Buy Me A Coffee](https://bit.ly/48zy9gJ)
 
 <!---
 gemjoshua/gemjoshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
