@@ -6,7 +6,7 @@
 - 📫 How to reach me [Email](mailto:developer.gemjoshua@gmail.com)
 - Portfolio Link: [Joshag](https://joshag.vercel.app)
 - Wanna Support My Struggle: [Buy Me A Coffee](https://bit.ly/48zy9gJ)
-- **I'm Open for Per-Time Role & Project Ideas**
+- **I'm Open for Part-Time Role & Project Ideas**
 
 <!---
 gemjoshua/gemjoshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
