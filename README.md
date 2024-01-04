@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Joshua~Agbo<Joshag>
 - A Computer Science Student
-- A Software Engineer.
+- A FullStack Software Engineer.
 - 👀 I’m passionate about  Mobile/Web Development | ML | Cloud
 - 📫 How to reach me [Email](mailto:developer.gemjoshua@gmail.com)
 - Portfolio Link: [Joshag](https://joshag.vercel.app)
