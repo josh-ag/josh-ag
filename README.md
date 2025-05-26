@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Joshua~Agbo<Joshag>
+## 👋 Hi, I’m Josh<Joshag>
 - A FullStack Software Engineer.
 - 👀 I’m passionate about  Mobile/Web Development | ML | Cloud
 - Portfolio Link: [Joshag](https://joshag.vercel.app)
